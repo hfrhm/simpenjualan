@@ -1,0 +1,17 @@
+th {
+  background-color: #afeeee;
+}
+
+.pagination {
+  margin-top: 10px !important;
+}
+
+.pagination .page-link {
+  color: black;
+}
+
+.pagination .page-item.active .page-link {
+  background-color: #afeeee;
+  color: black;
+  border: 1px solid #ccc;
+}
